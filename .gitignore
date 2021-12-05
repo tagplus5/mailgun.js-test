@@ -1,0 +1,4 @@
+.idea
+config/development.json
+node_modules
+test.csv

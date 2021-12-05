@@ -1,0 +1,9 @@
+{
+  "mailgun": {
+    "key": "",
+    "public_key": "",
+    "domain": "",
+    "from": "",
+    "to": ""
+  }
+}
